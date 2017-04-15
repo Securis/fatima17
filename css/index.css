@@ -93,6 +93,9 @@ body {
     display:table-cell;
     text-align:center;
 }
+#stuff {
+	padding-top: 120px;
+}
 
 @media (min-width: 768px) {
 	.navbar {
@@ -141,11 +144,12 @@ body {
 	#submenu {
 	display:none; 
 	}
+	#stuff {
+		padding-top: 60px;
+	}
 }
 
-#stuff {
-	padding-top: 60px;
-}
+
 
 
 /**
