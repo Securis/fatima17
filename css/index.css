@@ -74,6 +74,10 @@ body {
     background:  #f48942;
 }
 
+.navbar-default .nav .dropdown .dropdown-toggle:hover {
+	display: block;
+}
+
 .navbar-default .nav .dropdown .dropdown-menu > li > a,
 .navbar-default .nav .dropdown .dropdown-menu > li > a:focus {
 	color: white;
@@ -127,17 +131,18 @@ body {
 	    background: #84b5f1;
 	}
 
+
 	.navbar-default .nav > li > a,
 	.navbar-default .nav > li > a:focus,
 	.navbar-default .navbar-nav>.open>a, 
 	.navbar-default .navbar-nav>.open>a:focus, 
 	.navbar-default .navbar-nav>.open>a:hover {
-		background-color: transparent;
+		//background-color: transparent;
 		color: white
 	}
 	.navbar-default .nav > li > a:hover,
 	.navbar-default .nav > li > a:focus:hover {
-		background-color: transparent;
+		//background-color: transparent;
 		color: #f48942;
 	}
 	.navbar-default .nav > .active > a,
@@ -149,6 +154,10 @@ body {
 	.navbar-default .nav .dropdown .dropdown-menu > li > a {
 		color: #84b5f1;
 	}
+	.navbar-default .nav .dropdown:hover > ul.dropdown-menu {
+		display: block;
+	}
+
 	#navHome {
 	    left: 3%;
 	}
