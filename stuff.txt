@@ -4,3 +4,52 @@
 	#language_button {
 	display:block; 
 	}
+
+
+            <p class="text-center">
+                <a href="#">Securis</a> (2017)
+            </p>
+            <p class="text-center">
+                <a href="#">Securis: Fatima on Android</a>
+            </p>
+            <p class="text-center">
+                <a href="#"><i class="fa fa-twitter"></i></a> |
+                <a href="#"><i class="fa fa-facebook"></i></a> |
+                <a href="#"><i class="fa fa-envelope"></i></a> |
+                <a href="#"><i class="fa fa-newspaper-o"></i></a>
+            </p>
+
+
+                <footer class="footer">
+        <div class="container">
+        <hr>
+            <p class="text-left">
+                2017 SECURIS | <a href="#">About us</a> | <a href="#">SECURIS: Fatima on Android</a>
+            </p>
+            <p class="text-left">
+                <a href="#"><i class="fa fa-newspaper-o"></i> Join our Mailing List</a> | 
+                <a href="#"><i class="fa fa-envelope"></i> Contact us via email | </a>
+                <a href="#"><i class="fa fa-twitter"></i> Find us on Twitter | </a>
+                <a href="#"><i class="fa fa-facebook"></i> Follow us on Facebook</a>
+            </p>
+        </div>
+    </footer>
+
+    
+            <div class="row">
+                <div class="col-md-3">
+                    <p>ABOUT</p>
+                    <p><a href="#">About us</a></p>
+                    <p><a href="#">SECURIS: Fatima on Android</a></p>
+                    
+                </div>
+                <div class="col-md-6">
+                    
+                </div>
+                <div class="col-md-3">
+                    <p>CONTACT US</p>
+                    <p><a href="#"><i class="fa fa-envelope"></i> Email</a></p>
+                    <p><a href="#"><i class="fa fa-twitter"></i> Twitter</a></p>
+                    <p><a href="#"><i class="fa fa-facebook"></i> Facebook</a></p>
+                </div>
+            </div>
