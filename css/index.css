@@ -46,8 +46,6 @@ body {
 .navbar-nav > li{
   padding-left: 0px;
   padding-right: 0px;
-  padding-left:0px;
-  padding-right:0px;
 }
 
 .navbar-default .nav > li > a,
@@ -184,28 +182,22 @@ body {
 footer {
 	background-color: #84b5f1;
 	color: white;
-	//margin: 10px 0px 10px 0px;
 }
 footer h4 {
-	padding-top: 10px;
-	font-weight: 600; 
-	padding-bottom: 0px;
+	font-weight: 600;
+    margin-top: 20px;
 }
 footer p,
 footer form label{
-	margin: 10px 0px 10px 0px;
 	font-size: 14px;
 	font-weight:normal; 
+}
+footer p{
+    margin-top: 15px !important;;
 }
 footer p a{
 	color: white;
 }
 footer p a:hover{
 	color: #f48942;
-}
-footer #mailinglist{
-	padding-top: -10px;
-}
-footer form {
-	margin-top: -20px !important;
 }
